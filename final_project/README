@@ -1,0 +1,11 @@
+This is a competitive final project of ECS171
+
+Before running the program, download all data from Kaggle and place it into /data directory.
+
+Usage:
+python3 generate_csv.py
+python3 Weiran_model.py
+python3 submit.py
+
+Result:
+We got a MAE(mean absolute error) of 0.46 on 70% of test data on Kaggle.
